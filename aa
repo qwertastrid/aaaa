@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tensura Charac</title>
+</head>
+<body>
+
+    <table border="1" width="100%" style="border-collapse: collapse; text-align: center; font-family: Arial, sans-serif;">
+        <tr style="background-color: green; color: white;">
+            <th>Name</th>
+            <th>Age</th>
+            <th>Ability</th>
+            <th>Title</th>
+        </tr>
+        <tr style="background-color: cyan; color: black;">
+            <td style="background: url('https://assets.onecompiler.app/42yju2vdn/438pcd7hy/images.jpeg') no-repeat center center; background-size: cover; color: white; font-family: 'Georgia', serif; font-weight: bold;">Rimuru</td>
+            <td>3-4</td>
+            <td>Void God Azazoth</td>
+            <td>Chaos Creator</td>
+        </tr>
+        <tr style="background-color: yellow; color: black;">
+            <td style="background: url('https://assets.onecompiler.app/42yju2vdn/438pcd7hy/images%20(2).jpeg') no-repeat center center; background-size: cover; color: white; font-family: 'Georgia', serif; font-weight: bold;">Veldora</td>
+            <td>2,000+</td>
+            <td>Nyarlathotep, Lord of Chaos</td>
+            <td>Evil Dragon</td>
+        </tr>
+        <tr style="background-color: black; color: white;">
+            <td style="background: url('https://assets.onecompiler.app/42yju2vdn/438pcd7hy/images%20(3).jpeg') no-repeat center center; background-size: cover; color: white; font-family: 'Georgia', serif; font-weight: bold;">Diablo</td>
+            <td>Since The Dawn of Creation</td>
+            <td>Azazel, Lord of Temptation</td>
+            <td>Devil Lord</td>
+        </tr>
+        <tr style="background-color: red; color: white;">
+            <td style="background: url('https://assets.onecompiler.app/42yju2vdn/438pcd7hy/images%20(4).jpeg') no-repeat center center; background-size: cover; color: white; font-family: 'Georgia', serif; font-weight: bold;">Benimaru</td>
+            <td>20s??</td>
+            <td>Amaterasu</td>
+            <td>Flare Lord</td>
+        </tr>
+        <tr style="background-color: yellow; color: white;">
+            <td style="background: url('https://assets.onecompiler.app/42yju2vdn/438pcd7hy/Carrera_Jane.jpeg') no-repeat center center; background-size: cover; color: white; font-family: 'Times New Roman', serif; font-weight: bold;">Carrera</td>
+            <td>Since The Dawn of Creation</td>
+            <td>Abaddon, Lord of Destruction</td>
+            <td>Menace Lord</td>
+        </tr>
+        <tr style="background-color: white; color: black;">
+            <td style="background: url('https://assets.onecompiler.app/42yju2vdn/438pcd7hy/Testarossa%20(2).jpeg') no-repeat center center; background-size: cover; color: white; font-family: 'Georgia', serif; font-weight: bold;">Testarossa</td>
+            <td>Since The Dawn of Creation</td>
+            <td>Belial, Lord of Underworld</td>
+            <td>Killer Lord</td>
+        </tr>
+        <tr style="background-color: purple; color: white;">
+            <td style="background: url('https://assets.onecompiler.app/42yju2vdn/438pcd7hy/%E3%83%BCUltima.jpeg') no-repeat center center; background-size: cover; color: white; font-family: 'Georgia', serif; font-weight: bold;">Ultima</td>
+            <td>Since The Dawn of Creation</td>
+            <td>Samael, Lord of Deathly Poison</td>
+            <td>Pain Lord</td>
+        </tr>
+    </table>
+
+</body>
+</html>
